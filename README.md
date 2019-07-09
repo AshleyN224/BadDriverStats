@@ -50,6 +50,8 @@ Driver-Stats utilizes the module `plotly` to graph and display CSV and Pandas da
 
 Plotly is using a dataframe created from a CSV file to display data to the user.
 
+Data for the CSV file was collected by FiveThirtyEight (or, 538) (https://github.com/fivethirtyeight/data)
+
 ---
 
 #### The usage options of this program are as follows:
@@ -85,15 +87,6 @@ Note: States that have more than one word should be put in quotes. Example:
 `python driving_stats.py` will launch a command line interface version of Driving_Stats. The user can loop through the program multiple times using this method. The interface is as follows:
     
     > python driving_stats.py  
---------------------------------------------------
- ____       _                  ____  _        _       
-|  _ \ _ __(_)_   _____ _ __  / ___|| |_ __ _| |_ ___ 
-| | | | '__| \ \ / / _ \ '__| \___ \| __/ _` | __/ __|
-| |_| | |  | |\ V /  __/ |     ___) | || (_| | |_\__ \
-|____/|_|  |_| \_/ \___|_|    |____/ \__\__,_|\__|___/
-                                                      
-
---------------------------------------------------
 
     What would you like to do?
     (1) Get stats
