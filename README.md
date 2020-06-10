@@ -2,9 +2,6 @@
 Ashley Newsome 
 
 ## Contributions
-https://github.com/AshleyN224/BH-Code
-
-## Dependencies (potential subsection for program design)
 
 #### Standard Built-In Libraries
 - csv
